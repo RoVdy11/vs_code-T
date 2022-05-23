@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.defaultFormatter": "vscjava.vscode-java-pack",
+    "editor.formatOnSave": true,
+    "explorer.confirmDelete": false,
+    "java.format.settings.url": "eclipse-formatter.xml"
+}
